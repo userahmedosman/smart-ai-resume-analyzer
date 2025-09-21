@@ -105,6 +105,3 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
-
-  <img src="public/readme/jsmpro.webp" alt="Project Banner">
-</a>
